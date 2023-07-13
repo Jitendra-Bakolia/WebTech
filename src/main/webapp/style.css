@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.p_color{
+	background-color: #03a9f4;
+}
+.fa{
+	margin-right: 10px;
+}
+
+#searchlist:hover{
+	color:red;
+}
